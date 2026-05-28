@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfrocess",
+        "uuid": 40213367,
+        "checksum": "anfib9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
